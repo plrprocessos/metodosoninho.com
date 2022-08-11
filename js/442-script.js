@@ -226,3 +226,5 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	</script>
 	</body>
 </html>
+
+/*This file was exported by "Export WP Page to Static HTML" plugin which created by ReCorp (https://myrecorp.com) */
