@@ -317,3 +317,5 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <script src='https://segredodosbanqueiros.online/wp-content/plugins/elementskit-lite/widgets/init/assets/js/widget-scripts.js?ver=2.6.3' id='ekit-widget-scripts-js'></script>
 </body>
 </html>
+
+/*This file was exported by "Export WP Page to Static HTML" plugin which created by ReCorp (https://myrecorp.com) */
